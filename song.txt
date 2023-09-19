@@ -1,1 +1,2 @@
 just simple text
+second string from github
